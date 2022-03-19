@@ -1,13 +1,11 @@
-
 ### "É proibido desistir! Inspire, expire e continue!" 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/karinnecristinapereira/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@KarinneCristina)](https://medium.com/@KarinneCristina)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-o-11447720b///)](https://www.linkedin.com/in/jonathan-o-11447720b/)
 [![Hotmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=contatojmauro@hotmail.com)](contatojmauro@hotmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/jonathanmauro)](https://www.kaggle.com/jonathanmauro)
 
 <p align="center">
-  <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
-  <div class="tenor-gif-embed" data-postid="22391159" data-share-method="host" data-aspect-ratio="2.80702" data-width="100%"><a href="https://tenor.com/view/banner-welcome-gif-22391159">Banner Welcome GIF</a>from <a href="https://tenor.com/search/banner+welcome-gifs">Banner Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/view/banner-welcome-gif-22391159" alt="animated" />
+  
 </p>
 
 Engenheiro de dados com foco nos processos de coleta, estruturação e pré-processamento de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
@@ -42,4 +40,3 @@ Engenheiro de dados com foco nos processos de coleta, estruturação e pré-proc
  
 
  
-
