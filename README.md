@@ -3,10 +3,7 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=contatojmauro@hotmail.com)](contatojmauro@hotmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/jonathanmauro)](https://www.kaggle.com/jonathanmauro)
 
-<p align="center">
-  <img src="https://tenor.com/view/banner-welcome-gif-22391159" alt="animated" />
-  
-</p>
+
 
 Engenheiro de dados com foco nos processos de coleta, estruturação e pré-processamento de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
 
