@@ -44,5 +44,5 @@ Engenheiro de dados com foco nos processos de coleta, estruturação e pré-proc
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=JonathanMauro&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMauro&hide=cssJupyterNotebook,Python&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMauro&hide=Jupyter,Python&theme=tokyonight">
 </p>
