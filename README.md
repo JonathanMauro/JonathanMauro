@@ -38,11 +38,4 @@ Engenheiro de dados com foco nos processos de coleta, estruturação e pré-proc
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
- 
 
- ## ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JonathanMauro&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMauro&hide=Jupyter,Python&theme=tokyonight">
-</p>
