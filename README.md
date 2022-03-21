@@ -29,8 +29,7 @@ Engenheiro de dados com foco nos processos de coleta, estruturação e pré-proc
 
  
   📚 Tenho conhecimento básico:
- ![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html)
- ![CSS](https://img.shields.io/badge/-css-black?style=flat-square&logo=css)
+Atualizando...
  
   👍🏽 Estou aprendendo:
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
