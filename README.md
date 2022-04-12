@@ -41,6 +41,4 @@ Atualizando...
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
- https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMauro&theme=blue-green
 
- https://github-readme-stats.vercel.app/api?username=https:JonathanMauro&theme=blue-green
